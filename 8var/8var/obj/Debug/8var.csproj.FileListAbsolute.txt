@@ -1,0 +1,10 @@
+C:\Users\kks25\Desktop\konov\8var\8var\bin\Debug\8var.exe.config
+C:\Users\kks25\Desktop\konov\8var\8var\bin\Debug\8var.exe
+C:\Users\kks25\Desktop\konov\8var\8var\bin\Debug\8var.pdb
+C:\Users\kks25\Desktop\konov\8var\8var\obj\Debug\8var.csprojAssemblyReference.cache
+C:\Users\kks25\Desktop\konov\8var\8var\obj\Debug\_8var.Form1.resources
+C:\Users\kks25\Desktop\konov\8var\8var\obj\Debug\_8var.Properties.Resources.resources
+C:\Users\kks25\Desktop\konov\8var\8var\obj\Debug\8var.csproj.GenerateResource.cache
+C:\Users\kks25\Desktop\konov\8var\8var\obj\Debug\8var.csproj.CoreCompileInputs.cache
+C:\Users\kks25\Desktop\konov\8var\8var\obj\Debug\8var.exe
+C:\Users\kks25\Desktop\konov\8var\8var\obj\Debug\8var.pdb

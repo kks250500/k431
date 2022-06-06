@@ -1,0 +1,10 @@
+C:\Users\kks25\Desktop\konov\27var\27var\bin\Debug\27var.exe.config
+C:\Users\kks25\Desktop\konov\27var\27var\bin\Debug\27var.exe
+C:\Users\kks25\Desktop\konov\27var\27var\bin\Debug\27var.pdb
+C:\Users\kks25\Desktop\konov\27var\27var\obj\Debug\27var.csprojAssemblyReference.cache
+C:\Users\kks25\Desktop\konov\27var\27var\obj\Debug\_27var.Form1.resources
+C:\Users\kks25\Desktop\konov\27var\27var\obj\Debug\_27var.Properties.Resources.resources
+C:\Users\kks25\Desktop\konov\27var\27var\obj\Debug\27var.csproj.GenerateResource.cache
+C:\Users\kks25\Desktop\konov\27var\27var\obj\Debug\27var.csproj.CoreCompileInputs.cache
+C:\Users\kks25\Desktop\konov\27var\27var\obj\Debug\27var.exe
+C:\Users\kks25\Desktop\konov\27var\27var\obj\Debug\27var.pdb

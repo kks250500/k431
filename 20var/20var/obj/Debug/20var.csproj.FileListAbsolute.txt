@@ -1,0 +1,10 @@
+C:\Users\kks25\Desktop\konov\20var\20var\bin\Debug\20var.exe.config
+C:\Users\kks25\Desktop\konov\20var\20var\bin\Debug\20var.exe
+C:\Users\kks25\Desktop\konov\20var\20var\bin\Debug\20var.pdb
+C:\Users\kks25\Desktop\konov\20var\20var\obj\Debug\20var.csprojAssemblyReference.cache
+C:\Users\kks25\Desktop\konov\20var\20var\obj\Debug\_20var.Form1.resources
+C:\Users\kks25\Desktop\konov\20var\20var\obj\Debug\_20var.Properties.Resources.resources
+C:\Users\kks25\Desktop\konov\20var\20var\obj\Debug\20var.csproj.GenerateResource.cache
+C:\Users\kks25\Desktop\konov\20var\20var\obj\Debug\20var.csproj.CoreCompileInputs.cache
+C:\Users\kks25\Desktop\konov\20var\20var\obj\Debug\20var.exe
+C:\Users\kks25\Desktop\konov\20var\20var\obj\Debug\20var.pdb
